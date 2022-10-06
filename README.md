@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [whats_for_dinner](https://github.com/hazmmmm/whats_for_dinner)
+- 🔭 I’m currently working on [BMI_and_Full_Year](https://github.com/nameFascinator/BMI_and_Full_Years)
 
 - 🌱 I’m currently learning **everything related to Data Analysis and Data Engineering**
 
