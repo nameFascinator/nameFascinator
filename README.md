@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [PomodoroTimeManager](https://github.com/nameFascinator/PomodoroTimeManager)
 
-- 🌱 I’m currently learning **everything related to Data Analysis and Data Engineering**
+- 🌱 I’m currently study B.Sc. Applied Computer Science at **Hochschule für Technik und Wirtschaft (HTW) Berlin, Germany**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nameFascinator](https://github.com/nameFascinator)
 
