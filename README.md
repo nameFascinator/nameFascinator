@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nameFascinator](https://github.com/nameFascinator)
 
-- 📝 Personal web page [https://troopl.com/viktor-chmilenko](https://troopl.com/viktor-chmilenko)
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **gui.applications@gmail.com**
